@@ -12,8 +12,8 @@
 Для тестирования и запуска программ необходимо,
 находясь в нужной директории, ввести в терминал:
 
-> gcc -o server server.c -lpthread
-> gcc -o client client.c
+> gcc -o server server.c -lpthread;
+> gcc -o client client.c;
 > ./server <port>
 
 В других окнах-клиентах:
@@ -23,4 +23,5 @@
   
   
 # Демонстрация работы 
-  [demo](https://github.com/obadoraibu/os-hw-3/blob/main/4-5/IMG_8028.MP4)
+  ### ![Иллюстрация](https://github.com/obadoraibu/os-hw-3/4-5/1.png)
+  [demo MP4](https://github.com/obadoraibu/os-hw-3/blob/main/4-5/IMG_8028.MP4)
